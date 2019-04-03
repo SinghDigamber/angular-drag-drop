@@ -1,5 +1,10 @@
 # AngularDragDrop
 
+Step by Step Tutorial
+[Angular 7 Drag and Drop Tutorial with Material Library](https://www.positronx.io/angular-7-drag-drop-tutorial-material-library/)
+
+Run `npm install` before working on this app.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
 
 ## Development server
